@@ -1,2 +1,1 @@
-# aprendiendo-github
 # GithubPages
